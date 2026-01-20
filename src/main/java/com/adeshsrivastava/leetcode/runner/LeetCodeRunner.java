@@ -1,4 +1,4 @@
-package com.adeshsrivastava.leetcode;
+package com.adeshsrivastava.leetcode.runner;
 
 public class LeetCodeRunner {
     public static void main(String[] args) {
